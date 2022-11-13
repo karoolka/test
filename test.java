@@ -1,6 +1,6 @@
 public class test {
     int test1
 
-    public void setTest2()
+    public void setTest2() ;
 
 }
